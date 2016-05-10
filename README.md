@@ -1,6 +1,5 @@
-# angularjs-component-router
+# Ponytail Express softball lineup generator
 
-An Angular 1.x example app using the component router and module component helper
 
 ## Installation
 
@@ -12,7 +11,9 @@ An Angular 1.x example app using the component router and module component helpe
 
   Build the app
 
-  	npm start
+  	gulp
+  
+  Start the app
+    node app
 
   Navigate to http://localhost:8080 in your browser
-# ponytail
